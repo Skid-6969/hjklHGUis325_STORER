@@ -1,2 +1,2 @@
-# hjklHGUis325_STORER
-storer
+# STORER for serotonin & star systems servers
+
